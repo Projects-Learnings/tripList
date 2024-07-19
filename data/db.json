@@ -1,0 +1,64 @@
+{
+  "trips": [
+    {
+      "id": 1,
+      "title": "Trip to Paris",
+      "price": "KES 120,000",
+      "location": "France"
+    },
+    {
+      "id": 2,
+      "title": "Safari in Kenya",
+      "price": "KES 180,000",
+      "location": "Kenya"
+    },
+    {
+      "id": 3,
+      "title": "Beach Vacation in Maldives",
+      "price": "KES 250,000",
+      "location": "Maldives"
+    },
+    {
+      "id": 4,
+      "title": "Skiing in Switzerland",
+      "price": "KES 300,000",
+      "location": "Switzerland"
+    },
+    {
+      "id": 5,
+      "title": "Cultural Tour in Japan",
+      "price": "KES 210,000",
+      "location": "Japan"
+    },
+    {
+      "id": 6,
+      "title": "Road Trip Across USA",
+      "price": "KES 220,000",
+      "location": "USA"
+    },
+    {
+      "id": 7,
+      "title": "Cruise in the Caribbean",
+      "price": "KES 280,000",
+      "location": "Caribbean"
+    },
+    {
+      "id": 8,
+      "title": "Historical Sites in Rome",
+      "price": "KES 160,000",
+      "location": "Italy"
+    },
+    {
+      "id": 9,
+      "title": "Adventure in Australia",
+      "price": "KES 270,000",
+      "location": "Australia"
+    },
+    {
+      "id": 10,
+      "title": "City Break in New York",
+      "price": "KES 150,000",
+      "location": "USA"
+    }
+  ]
+}
